@@ -1,0 +1,10 @@
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\TodoApp.csproj.AssemblyReference.cache
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\TodoApp.Form1.resources
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\TodoApp.csproj.GenerateResource.cache
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\bin\Release\Tasks.exe.config
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\bin\Release\Tasks.exe
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\bin\Release\Tasks.pdb
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\Tasks.Properties.Resources.resources
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\Tasks.exe
+C:\Users\zhaho\source\repos\csharp-todo\TodoApp\obj\Release\Tasks.pdb
